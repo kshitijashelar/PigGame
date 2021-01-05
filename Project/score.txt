@@ -1,0 +1,11 @@
+polo : 50
+lol : 50
+hmm : 50
+orange : 50
+neil : 50
+kelly : 50
+pig : 50
+meat : 100
+soup : 50
+Scooby : 50
+player1 : 50
